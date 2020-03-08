@@ -1,1 +1,1 @@
-https://ilonasadouskaya.github.io/singolo
+https://ilonasadouskaya.github.io/singolo/
