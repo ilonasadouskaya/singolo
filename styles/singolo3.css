@@ -1,0 +1,78 @@
+.wrapper {
+    width: 1020px;
+    margin: 0 auto;
+}
+
+
+/* Get a Quote */
+
+.get-quote {
+    height: 604px;
+    background-color: #f06c64;
+    padding: 44px 0px 0px 40px;
+}
+
+.get-quote h2 {
+    font-size: 30px;
+    line-height: 18px;
+    color: #f0d8d9;
+    font-family: "Lato";
+    font-weight: 900;
+    text-align: left;
+    letter-spacing: -0.2px;
+}
+
+.get-quote p {
+    width: 940px;
+    height: 57px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #f0d8d9;
+    font-family: "Lato";
+    font-weight: 300;
+    text-align: justify;
+    margin-top: 27px;
+}
+
+.get-quote-bottom {
+    height: 6px;
+    background-color: #ea676b;
+}
+
+
+/* Footer */
+
+.footer {
+    height: 76px;
+    background-color: #2d303a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 42px;
+    padding-left: 39px;
+}
+
+.footer-copyright {
+    width: 92px;
+    height: 11px;
+    font-size: 12px;
+    line-height: 11px;
+    color: #767e9e;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: justify;
+    letter-spacing: -0.2px;
+    margin: 0px 0px 2px 3px;
+}
+
+.footer-social {
+    width: 153px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: -2px;
+}
+
+.footer-social a:hover {
+    opacity: 0.6;
+}
