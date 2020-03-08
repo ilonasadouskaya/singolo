@@ -6,13 +6,13 @@
 
 /* Get a Quote */
 
-.get-quote {
+.get-quote-main {
     height: 604px;
     background-color: #f06c64;
     padding: 44px 0px 0px 40px;
 }
 
-.get-quote h2 {
+.get-quote-main h2 {
     font-size: 30px;
     line-height: 18px;
     color: #f0d8d9;
@@ -22,7 +22,7 @@
     letter-spacing: -0.2px;
 }
 
-.get-quote p {
+.get-quote-main p {
     width: 940px;
     height: 57px;
     font-size: 18px;
