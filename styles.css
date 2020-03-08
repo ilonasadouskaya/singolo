@@ -80,7 +80,7 @@
 /* Slider */
 
 .slider-main {
-    height: 600px;
+    height: 594px;
     background-color: #f06c64;
     display: flex;
     align-items: center;
@@ -118,7 +118,7 @@
 }
 
 .slider-bottom {
-    height: 15px;
+    height: 6px;
     background-color: #ea676b;
 }
 
@@ -126,10 +126,10 @@
 /* Services */
 
 .services-main {
-    height: 495px;
+    height: 449px;
     background-color: #f2f2f2;
     display: block;
-    padding: 30px 0px 0px 40px;
+    padding: 44px 0px 0px 40px;
 }
 
 .services-main h2 {
