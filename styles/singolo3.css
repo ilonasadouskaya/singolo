@@ -39,6 +39,144 @@
     background-color: #ea676b;
 }
 
+.get-quote-form-info {
+    display: flex;
+    flex-direction: row;
+    padding-top: 28px;
+}
+
+.get-quote-form-info form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.get-quote-form-info form input,
+.get-quote-form-info form textarea,
+.get-quote-form-info form button {
+    width: 604px;
+    font-size: 12px;
+    line-height: 22px;
+    color: #f48c8f;
+    font-family: "Lato";
+    font-weight: 400;
+    background-color: #d6564f;
+    margin-bottom: 15px;
+    padding-left: 14px;
+    border: 0;
+    border-radius: 5px;
+    outline: 0;
+}
+
+.get-quote-form-info form input {
+    height: 37px;
+    align-items: center;
+}
+
+.get-quote-form-info form textarea {
+    height: 193px;
+    resize: none;
+    padding-top: 8px;
+}
+
+.get-quote-form-info form input::placeholder,
+.get-quote-form-info form textarea::placeholder {
+    color: #f48c8f;
+}
+
+.get-quote-form-info form input:hover,
+.get-quote-form-info form textarea:hover {
+    opacity: 0.7;
+}
+
+.get-quote-form-info form input:focus {
+    width: 602px;
+    height: 35px;
+    border: 1px solid #f0d8d9;
+    color:#f0d8d9;
+}
+
+.get-quote-form-info form textarea:focus {
+    width: 602px;
+    height: 191px;
+    border: 1px solid #f0d8d9;
+}
+
+.get-quote-form-info form button {
+    height: 30px;
+    width: 310px;
+    align: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #f0d8d9;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.get-quote-form-info form button:hover {
+    width: 308px;
+    height: 30px;
+    background-color: #f0d8d9;
+    color: #d6564f;
+}
+
+.get-quote-info {
+    margin: -17px 0px 0px 20px;
+}
+
+.get-quote-info h3 {
+    font-size: 18px;
+    line-height: 18px;
+    color: #f0d8d9;
+    font-family: "Lato";
+    font-weight: 900;
+    text-align: left;
+    letter-spacing: -0.15px;
+    text-transform: capitalize;
+}
+
+.get-quote-info-content p {
+    width: 300px;
+    font-size: 12px;
+    line-height: 22px;
+    color: #f0d8d9;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: justify;
+    letter-spacing: -0.1px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    margin-top: -8px;
+}
+
+.get-quote-info-contacts {
+    display: flex;
+    flex-direction: column;
+    margin-top: 53px;
+}
+
+.get-quote-info-contacts div {
+    display: inline-block;
+    align-items: center;
+}
+
+.get-quote-info-contacts img {
+    height: 13px;
+    width: 13px;
+}
+
+.get-quote-info-contacts a {
+    font-size: 12px;
+    line-height: 22px;
+    color: #f0d8d9;
+    font-family: "Lato";
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
 
 /* Footer */
 
