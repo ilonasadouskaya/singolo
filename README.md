@@ -1,1 +1,1 @@
-Link: https://ilonasadouskaya.github.io/singolo/
+Deploy: https://ilonasadouskaya.github.io/singolo/
